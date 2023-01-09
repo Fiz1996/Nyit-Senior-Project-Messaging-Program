@@ -21,7 +21,7 @@
     "@react-navigation/material-bottom-tabs": "^5.1.7",
     "@react-navigation/native": "^5.1.4",
     "@react-navigation/stack": "^5.2.9",
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.4.1",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-gesture-handler": "^1.6.1",
